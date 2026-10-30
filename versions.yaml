@@ -1,0 +1,42 @@
+# ChiseledMC version list
+# maintained by chris and others
+
+1.12.2:
+    download: "https://cdn.jsdelivr.net/gh/ChiseledMC/launcher-jsdelivr-assets@HEAD/1.12.2.html"
+    type: "unstable"
+    creator: "unknown"
+
+1.8.8:
+    download: "https://cdn.jsdelivr.net/gh/ChiseledMC/launcher-jsdelivr-assets@HEAD/1.8.html"
+    type: "stable"
+    creator: "unknown"
+    
+1.5.2:
+    download: "https://cdn.jsdelivr.net/gh/ChiseledMC/launcher-jsdelivr-assets@HEAD/1.5.2.html"
+    type: "stable"
+    maintainer: "unknown"
+    
+Indev:
+    download: "https://cdn.jsdelivr.net/gh/ChiseledMC/launcher-jsdelivr-assets@HEAD/Indev.html"
+    type: "unstable"
+    creator: "unknown"
+    
+b1.3:
+    download: "https://cdn.jsdelivr.net/gh/ChiseledMC/launcher-jsdelivr-assets@HEAD/b1.3.html"
+    type: "untested"
+    creator: "unknown"
+    
+b1.7.3:
+    download: "https://cdn.jsdelivr.net/gh/ChiseledMC/launcher-jsdelivr-assets@HEAD/b1.7.3.html"
+    type: "untested"
+    creator: "unknown"
+    
+ef1.2.5:
+    download: "https://cdn.jsdelivr.net/gh/ChiseledMC/launcher-jsdelivr-assets@HEAD/ef1.2.5.html"
+    type: "untested, modded"
+    creator: "EaglerForge Team"
+    
+sh1.8.8:
+    download: "https://cdn.jsdelivr.net/gh/ChiseledMC/launcher-jsdelivr-assets@HEAD/sh1.8.8.html"
+    type: "hack client"
+    creator: "unknown"
