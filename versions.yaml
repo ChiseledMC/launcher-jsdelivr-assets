@@ -14,7 +14,7 @@
 1.5.2:
     download: "https://cdn.jsdelivr.net/gh/ChiseledMC/launcher-jsdelivr-assets@HEAD/1.5.2.html"
     type: "stable"
-    maintainer: "unknown"
+    creator: "unknown"
     
 Indev:
     download: "https://cdn.jsdelivr.net/gh/ChiseledMC/launcher-jsdelivr-assets@HEAD/Indev.html"
@@ -35,8 +35,3 @@ ef1.2.5:
     download: "https://cdn.jsdelivr.net/gh/ChiseledMC/launcher-jsdelivr-assets@HEAD/ef1.2.5.html"
     type: "untested, modded"
     creator: "EaglerForge Team"
-    
-sh1.8.8:
-    download: "https://cdn.jsdelivr.net/gh/ChiseledMC/launcher-jsdelivr-assets@HEAD/sh1.8.8.html"
-    type: "hack client"
-    creator: "unknown"
