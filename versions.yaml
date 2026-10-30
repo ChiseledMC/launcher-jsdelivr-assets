@@ -30,8 +30,3 @@ b1.7.3:
     download: "https://cdn.jsdelivr.net/gh/ChiseledMC/launcher-jsdelivr-assets@HEAD/b1.7.3.html"
     type: "untested"
     creator: "unknown"
-    
-ef1.2.5:
-    download: "https://cdn.jsdelivr.net/gh/ChiseledMC/launcher-jsdelivr-assets@HEAD/ef1.2.5.html"
-    type: "untested, modded"
-    creator: "EaglerForge Team"
